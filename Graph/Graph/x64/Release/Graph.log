@@ -1,0 +1,20 @@
+﻿  Bucket.cpp
+  Game.cpp
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.h(16,2): warning C4091: 'typedef ': ignored on left of 'screen' when no variable is declared
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.h(23,2): warning C4091: 'typedef ': ignored on left of 'selector' when no variable is declared
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(81,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(82,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(83,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(87,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.cpp(87,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Insertion.cpp
+  main.cpp
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.h(16,2): warning C4091: 'typedef ': ignored on left of 'screen' when no variable is declared
+C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\Graph\Game.h(23,2): warning C4091: 'typedef ': ignored on left of 'selector' when no variable is declared
+  Selection.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graph.vcxproj -> C:\College\CS\PROJECTS, ASSIGNMENTS AND MORE\Game engine\Graph\x64\Release\Graph.exe
